@@ -9,4 +9,4 @@ This code is based off information provided by: https://www.youtube.com/watch?v=
 Special thanks to everyone in the forums and on slack that helped me troubleshoot.
 
 ## Link 
-Play the game [HERE]!(https://shaelaw.github.io/Memory-Game/)
+Play the game [HERE](https://shaelaw.github.io/Memory-Game/)
